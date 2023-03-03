@@ -57,4 +57,5 @@ var sw = {
       sw.tick();
     }
   };
+  
   window.addEventListener("load", sw.init);

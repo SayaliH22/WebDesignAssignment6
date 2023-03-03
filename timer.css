@@ -1,0 +1,32 @@
+#divstyle {
+    margin-left: 400px;
+    margin-top: 100px;
+    background-color: rgb(190, 235, 176);
+    width: 450px;
+    height: 180px;
+    color: black;
+    }
+    #timer {
+    font-size: 100px;
+    padding-left: 30px;
+    width: 1000px;
+    margin-left: 0rem;
+    }
+    #buttons {
+    padding-top: -5px;
+    padding-left: 98px;
+    width: 600px;
+    }
+    #buttons button {
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 12px 24px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 8px;
+    }
